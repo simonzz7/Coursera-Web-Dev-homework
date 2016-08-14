@@ -1,0 +1,45 @@
+body {
+  font-size: 16px;
+  font-family: 'Oxygen', sans-serif;
+  background-color: #ffeeee;
+}
+#header-nav{
+	border-radius:0px;
+	background-color: #bbaaaa;
+}
+.navbar-brand h1 { 
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#collapsable-nav {
+	clear: left;
+	background-color: #bbbbaa;
+}
+#main-content {
+	width: 90%;
+}
+#main-content> p {
+	font-size: 1.6em;
+	font-weight: bold;
+}
+#main-content>div {
+	background-color: #eecccc;
+	margin-top: 25px;
+}
+#text p {
+	font-size: 1.2em;
+}
+
